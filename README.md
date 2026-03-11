@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm JAC0164!
+# 👋 Hi there, I'm Jules JAcques Girelle Coly!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Automation;Unity+%26+Godot+Game+Dev;Laravel+%26+NestJS+Backend" alt="Typing SVG" />
