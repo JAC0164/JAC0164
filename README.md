@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Jules JAcques Girelle Coly!
+# 👋 Hi there, I'm Jules Jaques Girelle Coly!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Cloud+Automation;Unity+%26+Godot+Game+Dev;Laravel+%26+NestJS+Backend" alt="Typing SVG" />
@@ -131,7 +131,7 @@ I am a passionate developer focused on building high-performance applications an
 ### 🏆 Achievements & Fun
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAC0164&theme=radical&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JAC0164&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
