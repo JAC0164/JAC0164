@@ -128,11 +128,7 @@ I am a passionate developer focused on building high-performance applications an
 
 ---
 
-### 🏆 Achievements & Fun
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JAC0164&theme=tokyonight" alt="GitHub Trophies" />
-</p>
+### 🏆 Fun & Metrics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JAC0164/JAC0164/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
