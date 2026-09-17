@@ -80,20 +80,10 @@ I am a passionate developer focused on building high-performance applications an
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <a href="https://www.digifoire.com/"><strong>Digifoire</strong></a><br/>
-      <img src="assets/digifoire.png" width="100%" alt="Digifoire" />
-    </td>
-    <td width="50%" align="center">
       <a href="https://play.google.com/store/apps/details?id=sn.galsengames.ludosenegal"><strong>Ludo Sénégal</strong></a><br/>
       <img src="assets/ludo_senegal.png" width="100%" alt="Ludo Sénégal" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://play.google.com/store/apps/details?id=com.saari.tawfeex_mobile"><strong>Tawfeex Mobile</strong></a><br/>
-      <img src="assets/tawfeex.png" width="100%" alt="Tawfeex" />
-    </td>
-    <td width="50%" align="center">
+     <td width="50%" align="center">
       <a href="https://marketifly.smartdevafrica.com/"><strong>Marketifly</strong></a><br/>
       <img src="assets/marketifly.png" width="100%" alt="Marketifly" />
     </td>
